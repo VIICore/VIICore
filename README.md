@@ -60,8 +60,6 @@
 |---------|-------------|-------|
 | [VIICoreFT](https://github.com/VIICore/VIICoreFT) | VIICoreFileTransfer — fast file sharing from server (web UI, parallel downloads, IP filter) | Go |
 | [Ping-PlusPlus](https://github.com/VIICore/Ping-PlusPlus) | — | PowerShell |
-| [JDataNET](https://github.com/VIICore/JDataNET) | JDataNET project | — |
-| [RemLogo2.0](https://github.com/VIICore/RemLogo2.0) | — | — |
 
 ---
 
