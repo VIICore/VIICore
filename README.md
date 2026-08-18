@@ -1,25 +1,27 @@
 <div align="center">
 
-# 👋 Привет, я VIICore
+<img src="https://raw.githubusercontent.com/VIICore/VIICore/main/avatar.png" width="140" height="140" alt="VIICore avatar" />
 
-**Разработчик** · любитель чистого кода, скриптов и полезных инструментов
+# Hey, I'm VIICore 👋
+
+**Developer** · clean code, scripts & handy tools
 
 [![GitHub followers](https://img.shields.io/github/followers/VIICore?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=8B5CF6)](https://github.com/VIICore)
 [![Profile views](https://komarev.com/ghpvc/?username=VIICore&style=for-the-badge&color=8B5CF6&label=Visits)](https://github.com/VIICore)
 
 ---
 
-## 🧑‍💻 Обо мне
+## 🧑‍💻 About me
 
-- 🔭 Работаю над своими проектами и инструментами
-- 🌱 Изучаю новое и улучшаю существующее
-- ⚡ Интересуюсь: автоматизация, CLI-инструменты, веб-интерфейсы
+- 🔭 Building my own projects and tools
+- 🌱 Always learning and improving
+- ⚡ Into: automation, CLI tools, web interfaces
 
 ---
 
-## 🛠️ Навыки и стек
+## 🛠️ Tech stack
 
-### Языки
+### Languages
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -28,7 +30,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Инструменты
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,7 +41,7 @@
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VIICore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats" />
@@ -52,22 +54,22 @@
 
 ---
 
-## 📦 Мои проекты
+## 📦 Projects
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [VIICoreFT](https://github.com/VIICore/VIICoreFT) | VIICoreFileTransfer — быстрый обмен файлами с сервера (веб-UI, параллельная загрузка, IP-фильтр) | Go |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [VIICoreFT](https://github.com/VIICore/VIICoreFT) | VIICoreFileTransfer — fast file sharing from server (web UI, parallel downloads, IP filter) | Go |
 | [Ping-PlusPlus](https://github.com/VIICore/Ping-PlusPlus) | — | PowerShell |
-| [JDataNET](https://github.com/VIICore/JDataNET) | Проект JDataNET | — |
+| [JDataNET](https://github.com/VIICore/JDataNET) | JDataNET project | — |
 | [RemLogo2.0](https://github.com/VIICore/RemLogo2.0) | — | — |
 
 ---
 
 <div align="center">
 
-*Спасибо, что заглянули! ⭐*
+*Thanks for stopping by! ⭐*
 
-[![Back to top](https://img.shields.io/badge/⬆%20Наверх-8B5CF6?style=for-the-badge)](https://github.com/VIICore)
+[![Back to top](https://img.shields.io/badge/⬆%20Top-8B5CF6?style=for-the-badge)](https://github.com/VIICore)
 
 </div>
 </div>
