@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=VIICore&theme=radical&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VIICore&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6&currStreakLabel=8B5CF6&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8B5CF6&text=c9d1d9&excludeDaysLabel=8B5CF6&v=2" alt="GitHub Streak" />
 </p>
 
 ---
