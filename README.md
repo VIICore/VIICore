@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VIICore/VIICore/main/avatar.jpg" width="140" height="140" alt="VIICore avatar" />
+<img src="avatar.jpg" width="140" height="140" alt="VIICore avatar" />
 
 # Hey, I'm VIICore 👋
 
