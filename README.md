@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VIICore/VIICore/main/avatar.png" width="140" height="140" alt="VIICore avatar" />
+<img src="https://raw.githubusercontent.com/VIICore/VIICore/main/avatar.jpg" width="140" height="140" alt="VIICore avatar" />
 
 # Hey, I'm VIICore 👋
 
@@ -44,12 +44,11 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIICore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIICore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=VIICore&cc=0D1117&tc=8B5CF6&ic=8B5CF6&bc=30363D" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIICore&theme=radical&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VIICore&theme=radical&hide_border=true&background=0D1117&fire=8B5CF6&ring=8B5CF6" alt="GitHub Streak" />
 </p>
 
 ---
