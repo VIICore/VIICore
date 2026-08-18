@@ -57,7 +57,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [VIICoreFT](https://github.com/VIICore/VIICoreFT) | VIICoreFileTransfer — fast file sharing from server (web UI, parallel downloads, IP filter) | Go |
+| [VIICoreFT](https://github.com/VIICore/VIICoreFT) | VIICoreFileTransfer — fast file & folder transfer between your PC and server: parallel chunked uploads, resume, IP filter, one-click HTTPS | Go |
 | [Ping-PlusPlus](https://github.com/VIICore/Ping-PlusPlus) | Ping++ — cross-platform network toolkit: ping with geo/stats, multi-ping, subnet scan, traceroute, port checks, subdomain finder, IP lookup, Wi-Fi/LAN scanner | PowerShell |
 
 ---
